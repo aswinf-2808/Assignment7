@@ -1,0 +1,45 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "LEO",
+      "posterPath": "images/leo.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Vikram",
+      "posterPath": "images/vikram.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Jailer",
+      "posterPath": "images/jailer.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Good Bad Ugly",
+      "posterPath": "images/gbu.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Karuppu",
+      "posterPath": "images/karuppu.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Amaran",
+      "posterPath": "images/amaran.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Dude",
+      "posterPath": "images/dude.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Cobra",
+      "posterPath": "images/cobra.jpg"
+    }
+  ],
+  "favourites": []
+}

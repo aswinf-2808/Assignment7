@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Movie Zone</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body onload="getMovies(); getFavourites();">
+
+    <h1 class="main-heading">🎬 My Movies</h1>
+    <div class="container">
+        <!-- Movies Section -->
+        <div class="movies-box">
+            <h2 class="title movies-title">
+                Movies Collection
+            </h2>
+            <ul id="moviesList" class="movie-list">
+            </ul>
+        </div>
+
+        <!-- Favourite Section -->
+        <div class="fav-box">
+            <h2 class="title fav-title">
+                Favourite Movies
+            </h2>
+            <ul id="favouritesList" class="movie-list">
+            </ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
