@@ -7,39 +7,45 @@
     },
     {
       "id": "2",
-      "title": "Vikram",
+      "title": "VIKRAM",
       "posterPath": "images/vikram.jpg"
     },
     {
       "id": "3",
-      "title": "Jailer",
+      "title": "JAILER",
       "posterPath": "images/jailer.jpg"
     },
     {
       "id": "4",
-      "title": "Good Bad Ugly",
+      "title": "GBU",
       "posterPath": "images/gbu.jpg"
     },
     {
       "id": "5",
-      "title": "Karuppu",
+      "title": "KARUPPU",
       "posterPath": "images/karuppu.jpg"
     },
     {
       "id": "6",
-      "title": "Amaran",
+      "title": "AMARAN",
       "posterPath": "images/amaran.jpg"
     },
     {
       "id": "7",
-      "title": "Dude",
+      "title": "DUDE",
       "posterPath": "images/dude.jpg"
     },
     {
       "id": "8",
-      "title": "Cobra",
+      "title": "COBRA",
       "posterPath": "images/cobra.jpg"
     }
   ],
-  "favourites": []
+  "favourites": [
+    {
+      "id": "2",
+      "title": "VIKRAM",
+      "posterPath": "images/vikram.jpg"
+    }
+  ]
 }
